@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=ujjalkumarmaity&show_icons=true&theme=tokyonight](https://github-readme-stats-eight-theta.vercel.app/api?username=ujjalkumarmaity&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true))
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ujjalkumarmaity&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)
 
 ---
 
