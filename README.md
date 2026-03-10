@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ujjalkumarmaity&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)
 
 ---
-
+<!--
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ujjalkumarmaity&theme=tokyonight)
