@@ -56,19 +56,13 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjalkumarmaity&layout=compact&theme=tokyonight)
 
 ---
-
-### 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ujjalkumarmaity&theme=tokyonight)
-
----
-
+<!--
 ### 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ujjalkumarmaity&theme=tokyo-night)
 
 ---
-
+-->
 ### 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=ujjalkumarmaity)
