@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ujjal</h1>
-<h3 align="center">Data Scientist | AI/ML Engineer | Generative AI</h3>
+<h3 align="center">Data Scientist | AI/ML Engineer | Generative AI | Software Engineer</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Working on **Machine Learning & GenAI Projects**
 - 🌱 Currently learning **LangChain & Agentic AI**
 - 👯 Looking to collaborate on **AI/ML Projects**
 - 💬 Ask me about **Python, ML, NLP, RAG**
-- 📫 Reach me at: **your_email@gmail.com**
+- 📫 Reach me at: **ujjalkm398@gmail.com**
 
 ---
 
@@ -41,7 +40,7 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjalkumarmaity&show_icons=true&theme=tokyonight)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=ujjalkumarmaity&show_icons=true&theme=tokyonight](https://github-readme-stats-eight-theta.vercel.app/api?username=ujjalkumarmaity&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true))
 
 ---
 
@@ -50,7 +49,7 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://streak-stats.demolab.com?user=ujjalkumarmaity&theme=tokyonight)
 
 ---
-
+<!--
 ### 🧠 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjalkumarmaity&layout=compact&theme=tokyonight)
